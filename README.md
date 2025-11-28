@@ -1,6 +1,8 @@
 # learning-app-figma-project
 A modern and intuitive learning application designed to help students and professionals upgrade their skills anytime, anywhere. This app provides structured learning paths, interactive lessons, quizzes, and progress tracking to make learning simple, engaging, and effective.
 Skillence: E-Learning Mobile App (UI/UX Case Study)
+
+
 🌟 Project Overview
 Skillence is a comprehensive UI/UX case study for a mobile-first e-learning platform. The project focuses on designing an intuitive, engaging, and feature-rich user experience for individuals looking to upskill in high-demand technical and creative domains.
 
