@@ -3,7 +3,9 @@ A modern and intuitive learning application designed to help students and profes
 Skillence: E-Learning Mobile App (UI/UX Case Study)
 
 
-🌟 Project Overview
+🌟 Project Overview:
+
+
 Skillence is a comprehensive UI/UX case study for a mobile-first e-learning platform. The project focuses on designing an intuitive, engaging, and feature-rich user experience for individuals looking to upskill in high-demand technical and creative domains.
 
 Design Tool: Figma
@@ -12,7 +14,9 @@ Project Goal: To design a complete user journey from onboarding to course comple
 
 Target Audience: Students and working professionals seeking to advance their careers through online courses (e.g., Data Science, UI/UX, Full Stack).
 
-💡 Design Methodology & Process
+💡 Design Methodology & Process:
+
+
 This project utilized a user-centered design (UCD) approach, focusing on key flows and interface patterns common in successful mobile applications.
 
 1. User Flows & Wireframing
@@ -29,7 +33,9 @@ Aesthetic: Employed a vibrant, modern, and engaging visual style (predominantly 
 
 Components: Designed reusable UI components for buttons, input fields, navigation tabs, and content cards, promoting design consistency across all screens.
 
-✨ Key Design Deliverables
+✨ Key Design Deliverables:
+
+
 The design covers the following major functional areas, demonstrating mastery of various mobile design patterns:
 
 A. Onboarding & Authentication Flow
@@ -62,7 +68,9 @@ Social & Engagement: Designed a clear Leaderboard interface to foster competitio
 
 Success Screen: Design for the official Certificate of Course Completion screen (page 16.png).
 
-🛠️ Design Tools & Key Skills
+🛠️ Design Tools & Key Skills:
+
+
 Primary Tool: Figma (Used for all screens, components, and prototyping)
 
 Skills Demonstrated:
